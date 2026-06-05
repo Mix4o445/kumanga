@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "982793e7-5daf-4339-acb3-51a560b409c9",
+    "createdAt": "2026-06-05T18:21:39.488Z",
+    "updatedAt": "2026-06-05T18:21:59.264Z",
+    "messages": [
+      {
+        "id": "2c2cfeec-2885-4b3e-b255-ac2c2820f5e8",
+        "senderId": "982793e7-5daf-4339-acb3-51a560b409c9",
+        "fromAdmin": false,
+        "body": "السلام عليكم",
+        "createdAt": "2026-06-05T18:21:39.488Z"
+      },
+      {
+        "id": "cc219a97-fc6c-4032-af18-240a62baca80",
+        "senderId": "ba1e44a0-700b-40bd-bead-12475e2250f7",
+        "fromAdmin": true,
+        "body": "أهلا وسهلا",
+        "createdAt": "2026-06-05T18:21:59.264Z"
+      }
+    ]
+  }
+]

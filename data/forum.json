@@ -1,0 +1,27 @@
+[
+  {
+    "id": "12a0ca3f-3965-4964-94f6-8c4624f19151",
+    "categoryId": "translations",
+    "authorId": "ba1e44a0-700b-40bd-bead-12475e2250f7",
+    "title": "ترجمة مانجا ون بيس",
+    "body": "اريد منكم ترجمة مانجا ون بيس رجاءا",
+    "createdAt": "2026-06-05T17:22:05.287Z",
+    "updatedAt": "2026-06-05T17:33:37.737Z",
+    "replies": [
+      {
+        "id": "86b0518b-2a74-49f5-95fd-cb70fa0f4629",
+        "threadId": "12a0ca3f-3965-4964-94f6-8c4624f19151",
+        "authorId": "ba1e44a0-700b-40bd-bead-12475e2250f7",
+        "body": "ههههههههههه",
+        "createdAt": "2026-06-05T17:22:23.287Z"
+      },
+      {
+        "id": "45f89a6a-4ef8-455c-a393-6bb7b711d0a4",
+        "threadId": "12a0ca3f-3965-4964-94f6-8c4624f19151",
+        "authorId": "ba1e44a0-700b-40bd-bead-12475e2250f7",
+        "body": "اسكت",
+        "createdAt": "2026-06-05T17:33:37.737Z"
+      }
+    ]
+  }
+]

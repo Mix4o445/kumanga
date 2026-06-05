@@ -1,0 +1,94 @@
+[
+  {
+    "id": "b582eeb2-02e2-4476-a5c9-22dafd1f4ca9",
+    "slug": "chainsaw-man",
+    "title": "Chainsaw Man",
+    "authorName": "test",
+    "coverImage": "/uploads/covers/cover-1780659406069-g5lwvz.jpg",
+    "bannerImage": "/uploads/banners/banner-1780659406069-g5lwvz.jpg",
+    "synopsis": "testwdwadwqd wqdwqdwqdwqdwqd",
+    "genreSlugs": [
+      "action",
+      "drama",
+      "fantasy",
+      "romance"
+    ],
+    "status": "ongoing",
+    "year": 1950,
+    "views": 0,
+    "uploaderId": "ba1e44a0-700b-40bd-bead-12475e2250f7",
+    "createdAt": "2026-06-05T11:36:46.082Z",
+    "updatedAt": "2026-06-05T11:37:19.760Z",
+    "chapters": [
+      {
+        "id": "b54a86f1-be07-4f2d-b4a8-e393215a4415",
+        "mangaId": "b582eeb2-02e2-4476-a5c9-22dafd1f4ca9",
+        "number": 1,
+        "title": "w232",
+        "releasedAt": "2026-06-05T11:37:19.760Z",
+        "pages": [
+          "/uploads/chapters/b582eeb2-02e2-4476-a5c9-22dafd1f4ca9/1/001.jpg"
+        ],
+        "uploaderId": "ba1e44a0-700b-40bd-bead-12475e2250f7"
+      }
+    ]
+  },
+  {
+    "id": "f7014c7a-555b-40bd-abe3-9f80e85bed49",
+    "slug": "jujutsu-kaisen",
+    "title": "Jujutsu kaisen",
+    "authorName": "sadsa",
+    "coverImage": "/uploads/covers/cover-1780682668526-y60ymb.gif",
+    "synopsis": "sadsadsadwqdwqdwq",
+    "genreSlugs": [
+      "action",
+      "fantasy"
+    ],
+    "status": "ongoing",
+    "year": 1999,
+    "views": 0,
+    "uploaderId": "ba1e44a0-700b-40bd-bead-12475e2250f7",
+    "createdAt": "2026-06-05T18:04:28.529Z",
+    "updatedAt": "2026-06-05T18:04:28.529Z",
+    "chapters": [],
+    "reviewStatus": "approved"
+  },
+  {
+    "id": "aebaa3af-4834-45cb-95b3-b3f787cb7da2",
+    "slug": "bleach",
+    "title": "Bleach",
+    "authorName": "asd",
+    "coverImage": "/uploads/covers/cover-1780682813657-ckzj46.jpeg",
+    "synopsis": "qdqwdqwuihdwqiuhduiwqd",
+    "genreSlugs": [
+      "action",
+      "adventure",
+      "comedy",
+      "drama",
+      "fantasy"
+    ],
+    "status": "completed",
+    "year": 1999,
+    "views": 0,
+    "uploaderId": "982793e7-5daf-4339-acb3-51a560b409c9",
+    "createdAt": "2026-06-05T18:06:53.660Z",
+    "updatedAt": "2026-06-05T18:06:53.660Z",
+    "chapters": [
+      {
+        "id": "fce417d1-853a-44e9-801e-976b674550ee",
+        "mangaId": "aebaa3af-4834-45cb-95b3-b3f787cb7da2",
+        "number": 1,
+        "releasedAt": "2026-06-05T18:07:57.116Z",
+        "pages": [
+          "/uploads/chapters/aebaa3af-4834-45cb-95b3-b3f787cb7da2/1/001.jpeg",
+          "/uploads/chapters/aebaa3af-4834-45cb-95b3-b3f787cb7da2/1/002.gif",
+          "/uploads/chapters/aebaa3af-4834-45cb-95b3-b3f787cb7da2/1/003.gif",
+          "/uploads/chapters/aebaa3af-4834-45cb-95b3-b3f787cb7da2/1/004.jpg"
+        ],
+        "uploaderId": "982793e7-5daf-4339-acb3-51a560b409c9",
+        "reviewStatus": "rejected"
+      }
+    ],
+    "reviewStatus": "rejected"
+  }
+]

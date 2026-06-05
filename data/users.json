@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ba1e44a0-700b-40bd-bead-12475e2250f7",
+    "username": "erltt",
+    "email": "mahdaryounesse@gmail.com",
+    "passwordHash": "3e5bc750bdc5500a5554d4177dc47ac5c58bd7b14a4147a0ef6076426913d906c66dc6c6d4bffab5e9a0adebf4027344325280e534024ac2ea401cb4d81c2a11",
+    "salt": "fc3ed31791c5ccfb2a7d8cabc7135106",
+    "createdAt": "2026-06-05T11:18:03.486Z",
+    "avatarColor": "emerald",
+    "bannerImage": "/uploads/profile-banners/banner-ba1e44a0-700b-40bd-bead-12475e2250f7-mq15no7d.gif",
+    "avatarImage": "/uploads/avatars/avatar-ba1e44a0-700b-40bd-bead-12475e2250f7-mq15s44u.gif",
+    "bio": "أهلا وسهلا",
+    "website": "https://www.kumanga.org/",
+    "strikes": 0,
+    "bannedUntil": "2026-06-05T18:33:49.115Z"
+  },
+  {
+    "id": "982793e7-5daf-4339-acb3-51a560b409c9",
+    "username": "wqewqe",
+    "email": "contact@coolzone.ma",
+    "passwordHash": "26af734da4e0d0be92e6ed406b947b7f88e165fb8ffcc00b52ed5e3c96a6064f6ff48a23823749cf0ca59ecbb26eb4cc015792aac212528c32873374bece8da7",
+    "salt": "34246253c703e7891f70b6ee3495b995",
+    "createdAt": "2026-06-05T18:05:57.217Z",
+    "strikes": 1,
+    "verified": true
+  }
+]
